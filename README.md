@@ -1,0 +1,2 @@
+# image
+Obsidian专用
